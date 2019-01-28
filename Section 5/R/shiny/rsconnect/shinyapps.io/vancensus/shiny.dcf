@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: vancensus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 656213
+bundleId: 1824960
+url: https://vancensus.shinyapps.io/shiny/
+when: 1547970499.04553
