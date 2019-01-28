@@ -19,22 +19,20 @@ By the end of the course, you will be able to produce interactive maps and profe
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
-●	Familiarity with geospatial data
-●	Basic knowledge of Geographic Information Systems
-●	Basic knowledge of programming is helpful (i.e. in any of R, Python, or Matlab)
+●	Familiarity with geospatial data<br/>
+●	Basic knowledge of Geographic Information Systems<br/>
+●	Basic knowledge of programming is helpful (i.e. in any of R, Python, or Matlab)<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	R version 3.5.0 or later. Download here: https://www.r-project.org
-●	RStudio. Download here: https://www.rstudio.com
-●	QGIS 3.4. Download here: https://qgis.org/en/site/forusers/download.html
+●	R version 3.5.0 or later. Download here: https://www.r-project.org<br/>
+●	RStudio. Download here: https://www.rstudio.com<br/>
+●	QGIS 3.4. Download here: https://qgis.org/en/site/forusers/download.html<br/>
 
-This course has been tested on the following system configuration:
-●	OS:  Windows 10 or Mac El Capitan (10.11) to Mac Sierra (10.12) and newer
-●	Memory: 4GB of RAM
-●	Storage: 5GB of free hard drive space
+This course has been tested on the following system configuration:<br/>
+●	OS:  Windows 10 or Mac El Capitan (10.11) to Mac Sierra (10.12) and newer<br/>
+●	Memory: 4GB of RAM<br/>
+●	Storage: 5GB of free hard drive space<br/>
 
 
 ## Related Products
